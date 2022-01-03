@@ -1,7 +1,7 @@
 #rsschool-cv
 ##Mirjalol Anvarjonov's cv
 Think of yourself as dead. You have lived your life. Now, take what's left and live it properly. *What doesn't transmit light creates its own darkness?"* M. Aurelius.**
-##Welcome letter and Contact Details.
+###Welcome letter and Contact Details.
 ##Hello, my name is ***Mirjalol Anvarjonov*** and I welcome you to my online CV. I hope you'll find this as much enjoyable as I did. You can find me via:
 ###Telegram: Influential_Muslim
 ###Phone: +998 (99) 619-72-20
@@ -20,15 +20,15 @@ Intrapersonal skills: I am deeply motivated and always go for what my heart trul
 ### ***Front End Development:*** HTML, CSS, JS & VS Code;
 ### ***Git:*** Conventional commits, Git Flow;
 ### ***Design eye:*** I have a maximalist eye-for-detail - always make sure that interfaces are pixel-perfect.
-#Code Examples:
+###Code Examples:
 ###All of the code is currently on GitLab’s private repositories. Unfortunately.
-#Education:
+###Education:
 ###(2020 - 2024) **Westminster International University in Tashkent, BS in Business Information Systems.**
 ###(2020) **W3Schools.com basic HTML and CSS.**
 ###(2020) **Front End Development: Brad Udemy Course.**
-#English:
+###English:
 ###IELTS: B2 level certificate (2020) ***with the speaking of 6.5***
 
 ###Now: C1 level with the strong general English skills
-##Strong Russion language
+###Strong Russion language
 © 2022 GitHub, Inc.  
