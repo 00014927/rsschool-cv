@@ -1,6 +1,6 @@
 #rsschool-cv
 ##Mirjalol Anvarjonov's cv
-** >"Think of yourself as dead. You have lived your life. Now, take what's left and live it properly. *What doesn't transmit light creates its own darkness?"* M. Aurelius.**
+Think of yourself as dead. You have lived your life. Now, take what's left and live it properly. *What doesn't transmit light creates its own darkness?"* M. Aurelius.**
 ##Welcome letter and Contact Details.
 ##Hello, my name is ***Mirjalol Anvarjonov*** and I welcome you to my online CV. I hope you'll find this as much enjoyable as I did. You can find me via:
 ###Telegram: Influential_Muslim
