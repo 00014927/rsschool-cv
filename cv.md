@@ -31,4 +31,4 @@ Intrapersonal skills: I am deeply motivated and always go for what my heart trul
 
 ###Now: C1 level with the strong general English skills
 ##Strong Russion language
-© 2022 GitHub, Inc.
+© 2022 GitHub, Inc. 
